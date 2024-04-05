@@ -19,6 +19,14 @@ When I finished adding my historical figures, I checked to see if my app will ru
 Now I need to connect my app to Github. The way to do it, is to press the option VCS on the menu on top. Then select connect to Github repository. From there, Github shows an area where to comment. I comment for help if doesn’t run properly. The Github is used to help us keep track of any changes made of our coding, add projects together and also to manage different codebase. Github can be used to also check if the app will function seamlessly 
 
 The whole purpose of the app, is that the learners can use it to find out at what ages did these historical figures passed away at. If a learner wants to know who passed away at the age of 96. They type the 96 and the historical figure will show up as Nelson Mandela. Not only Nelson Mandela will show, even the king of pop, Michael Jackson will appear, if the correct age is written. This can help learners about history. There are invalid ages added in the app. When the learner puts in an age that the app has no information of, the app will say that there is no historical figure with that age here. If a learner doesn’t type out actual numbers for the age, the app will say to the learner to put in a valid age.  My background design fits perfectly with the topic of this project. My background shows a lot of history. The problems I encountered is that when I have errors, it’s possible to hover over the error and it gives options of fixing it. Their options aren’t always correct. it makes the coding worse or makes more errors.
+
+Reference:
+https://www.bluestacks.com/
+https://developer.android.com/guide/topics/ui/declaring-layout#java
+https://guides.github.com/
+https://www.youtube.com/watch?v=qkCDVt7b1tU
+https://www.youtube.com/watch?v=0fKg7e37bQE
+
  
 
 
